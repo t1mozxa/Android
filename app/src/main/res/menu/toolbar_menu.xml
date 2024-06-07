@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/strelka"
+        android:title="strelka"
+        android:icon="@drawable/__icon__arrow_forward_outline_"
+        app:showAsAction="ifRoom" />
+</menu>

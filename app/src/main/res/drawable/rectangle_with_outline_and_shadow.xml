@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <!-- Определите размер и цвет фона прямоугольника -->
+    <solid android:color="#ffffff" />
+
+    <!-- Добавьте контур с цветом и шириной -->
+    <stroke
+        android:color="#BA83FF"
+        android:width="3dp" />
+
+    <corners android:radius="30dp" />
+
+</shape>
